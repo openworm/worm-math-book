@@ -1,24 +1,7 @@
-# WormMathBook
+Contents
+========
 
-This book aims to focus on the most important mathematical concepts and models of the OpenWorm project. The entire book is online and built using the [Jupyter-book](https://github.com/executablebooks/jupyter-book) project.
-
-* Each part is dedicated to a major project
-  * Each section of the chapter is a standalone Jupyter Notebook
-    * Describing a concept, related videos/simulations/animations, examples, codes, and excercises
-* At the end of each section we have some mathematical problems to be solved
-  * Concepts, questions and solutions first being proposed on the [Discussions page](https://github.com/openworm/worm-math-book/discussions)
-    * If approved, will be added to the book
-* Queries for each code come from the **[owmeta](https://github.com/openworm/owmeta)** project
-  * Using the rdf relations we try to connect a question to the related ontology in our knowledge-base
-  * We try to have a parametric look into the code segments and questions
-* [SymPy](https://www.sympy.org) is beeing used to work with math and python
-* Related simulations are finally represtented through our simulation projects
-
----
-
-### Structure and Scenario
-
-The book is following a cycle of the C. **EL**egans' life. Each day some new capabilities are added and the worm becomes more complex. The questions regarding the new complexity, related math problems and solutions are discussed. Finally, an existing or a proposed model/simulation could be added in order to better demonstrate the process.
+**Introduction**
 
 **Part 1: Creation**
 
@@ -62,8 +45,4 @@ The book is following a cycle of the C. **EL**egans' life. Each day some new cap
 - *Day 23 - Decision Making*: El tries to make a decision to go toward the food source or the mate
 - *Day 24 - Aging and Death*: El goes toward the food source, however, in the middle of the way some temptation says go find your mate. El changes the direction, uses up all the energy and becomes a dead El
 
----
-
-### Worm Math Problems and Solutions
-
-Every scenario in the book can contain different questions. Every question is then accompanied by some math problems and solutions. Each question is going to be asked and discussed in the [Discussions page](https://github.com/openworm/worm-math-book/discussions). Selected questions become [issues](https://github.com/openworm/worm-math-book/issues), and when the related math problem(s) are solved a [pull request](https://github.com/openworm/worm-math-book/pulls) for an update to the book takes place.
+```

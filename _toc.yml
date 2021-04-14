@@ -1,0 +1,121 @@
+# Table of content
+# Learn more at https://jupyterbook.org/customize/toc.html
+#
+- file: intro
+- part: Creation
+  chapters:
+    - file: book/part1-creation/intro.md
+    - file: book/part1-creation/day1-environment.md
+      sections:
+        - file: book/part1-creation/day1-environment/environment-concept1.ipynb
+        - file: book/part1-creation/day1-environment/references.bib
+    - file: book/part1-creation/day2-gene-regulation.md
+      sections:
+        - file: book/part1-creation/day2-gene-regulation/gene-regulation-concept1.ipynb
+        - file: book/part1-creation/day2-gene-regulation/references.bib
+    - file: book/part1-creation/day3-cell-proliferation.md
+      sections:
+        - file: book/part1-creation/day3-cell-proliferation/cell-proliferation-concept1.ipynb
+        - file: book/part1-creation/day3-cell-proliferation/references.bib
+    - file: book/part1-creation/day4-worm-body.md
+      sections:
+        - file: book/part1-creation/day4-worm-body/worm-body-concept1.ipynb
+        - file: book/part1-creation/day4-worm-body/references.bib
+- part: Networking
+  chapters:
+    - file: book/part2-networking/intro.md
+    - file: book/part2-networking/day5-circuit.md
+      sections:
+        - file: book/part2-networking/day5-circuit/circuit-concept1.ipynb
+        - file: book/part2-networking/day5-circuit/references.bib
+    - file: book/part2-networking/day6-neural-networks.md
+      sections:
+        - file: book/part2-networking/day6-neural-networks/neural-networks-concept1.ipynb
+        - file: book/part2-networking/day6-neural-networks/references.bib
+    - file: book/part2-networking/day7-sleep-noise.md
+      sections:
+        - file: book/part2-networking/day7-sleep-noise/sleep-concept1.ipynb
+        - file: book/part2-networking/day7-sleep-noise/noise-concept1.ipynb
+        - file: book/part2-networking/day7-sleep-noise/references.bib
+    - file: book/part2-networking/day8-neuromuscular-system.md
+      sections:
+        - file: book/part2-networking/day8-neuromuscular-system/neuromuscular-system-concept1.ipynb
+        - file: book/part2-networking/day8-neuromuscular-system/references.bib
+- part: Locomotion
+  chapters:
+    - file: book/part3-locomotion/intro.md
+    - file: book/part3-locomotion/day9-shake.md
+      sections:
+        - file: book/part3-locomotion/day9-shake/shake-concept1.ipynb
+        - file: book/part3-locomotion/day9-shake/references.bib
+    - file: book/part3-locomotion/day10-swim.md
+      sections:
+        - file: book/part3-locomotion/day10-swim/swim-concept1.ipynb
+        - file: book/part3-locomotion/day10-swim/references.bib
+    - file: book/part3-locomotion/day11-crawl.md
+      sections:
+        - file: book/part3-locomotion/day11-crawl/crawl-concept1.ipynb
+        - file: book/part3-locomotion/day11-crawl/references.bib
+    - file: book/part3-locomotion/day12-hungriness.md
+      sections:
+        - file: book/part3-locomotion/day12-hungriness/hungriness-concept1.ipynb
+        - file: book/part3-locomotion/day12-hungriness/references.bib
+- part: In Joy
+  chapters:
+    - file: book/part4-in-joy/intro.md
+    - file: book/part4-in-joy/day13-feeding.md
+      sections:
+        - file: book/part4-in-joy/day13-feeding/feeding-concept1.ipynb
+        - file: book/part4-in-joy/day13-feeding/references.bib
+    - file: book/part4-in-joy/day14-defecation.md
+      sections:
+        - file: book/part4-in-joy/day14-defecation/defecation-concept1.ipynb
+        - file: book/part4-in-joy/day14-defecation/references.bib
+    - file: book/part4-in-joy/day15-mate.md
+      sections:
+        - file: book/part4-in-joy/day15-mate/mate-concept1.ipynb
+        - file: book/part4-in-joy/day15-mate/references.bib
+    - file: book/part4-in-joy/day16-reproduction.md
+      sections:
+        - file: book/part4-in-joy/day16-reproduction/reproduction-concept1.ipynb
+        - file: book/part4-in-joy/day16-reproduction/references.bib
+- part: In Danger
+  chapters:
+    - file: book/part5-in-danger/intro.md
+    - file: book/part5-in-danger/day17-mechano-sensation.md
+      sections:
+        - file: book/part5-in-danger/day17-mechano-sensation/mechano-sensation-concept1.ipynb
+        - file: book/part5-in-danger/day17-mechano-sensation/references.bib
+    - file: book/part5-in-danger/day18-toxicity.md
+      sections:
+        - file: book/part5-in-danger/day18-toxicity/toxicity-concept1.ipynb
+        - file: book/part5-in-danger/day18-toxicity/references.bib
+    - file: book/part5-in-danger/day19-temperature.md
+      sections:
+        - file: book/part5-in-danger/day19-temperature/temperature-concept1.ipynb
+        - file: book/part5-in-danger/day19-temperature/references.bib
+    - file: book/part5-in-danger/day20-dauer-state.md
+      sections:
+        - file: book/part5-in-danger/day20-dauer-state/dauer-state-concept1.ipynb
+        - file: book/part5-in-danger/day20-dauer-state/references.bib
+- part: Learning
+  chapters:
+    - file: book/part6-learning/intro.md
+    - file: book/part6-learning/day21-memory.md
+      sections:
+        - file: book/part6-learning/day21-memory/memory-concept1.ipynb
+        - file: book/part6-learning/day21-memory/references.bib
+    - file: book/part6-learning/day22-recall.md
+      sections:
+        - file: book/part6-learning/day22-recall/recall-concept1.ipynb
+        - file: book/part6-learning/day22-recall/references.bib
+    - file: book/part6-learning/day19-temperature.md
+      sections:
+        - file: book/part6-learning/day23-decision-making/decision-making-concept1.ipynb
+        - file: book/part6-learning/day23-decision-making/references.bib
+    - file: book/part6-learning/day24-aging-death.md
+      sections:
+        - file: book/part6-learning/day24-aging-death/aging-concept1.ipynb
+        - file: book/part6-learning/day24-aging-death/death-concept1.ipynb
+        - file: book/part6-learning/day24-aging-death/references.bib
+    
