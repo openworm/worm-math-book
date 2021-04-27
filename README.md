@@ -11,7 +11,7 @@ This book aims to focus on the most important mathematical concepts and models o
 * Queries for each code come from the **[owmeta](https://github.com/openworm/owmeta)** project
   * Using the rdf relations we try to connect a question to the related ontology in our knowledge-base
   * We try to have a parametric look into the code segments and questions
-* [SymPy](https://www.sympy.org) is beeing used to work with math and python
+* [SymPy](https://www.sympy.org) is being used to work with math and python
 * Related simulations are finally represtented through our simulation projects
 
 ---
@@ -60,10 +60,17 @@ The book is following a cycle of the C. **EL**egans' life. Each day some new cap
 - *Day 21 - Memory*: Behold; one shall not work on weekends. El decides to continue sleeping. El’s head tries to make a map of where El has gone and what El has done
 - *Day 22 - Recall*: El wakes up and tries to remember where should El go now
 - *Day 23 - Decision Making*: El tries to make a decision to go toward the food source or the mate
-- *Day 24 - Aging and Death*: El goes toward the food source, however, in the middle of the way some temptation says go find your mate. El changes the direction, uses up all the energy and becomes a dead El
+- *Day 24 - Irrationality*: El goes toward the food source, however, in the middle of the way some temptation says go find your mate. El changes the direction, uses up all the energy and becomes a dead El
+
+**Part 7: Aging**
+
+- *Day 25 - Resuscitation*: The OpenWorm rescue team finds that El is dead. Revives El and looks for possible reasons.
+- *Day 26 - Gene Therapy*: The OpenWorm rescue team finds the genetic problem caused the irrational decision and treats the disease
+- *Day 27 - Rehabilitation*: El now suffers from heart arrythmia and movement disability. The OpenWorm rescue team tries to rehabilitate El using drugs, artificial pacemaking, and rehabilitation techniques
+- *Day 28 - Aging and Death*: Behold; one shall not work on weekends. El suffers from different aging symptoms, goes to sleep. This time never awakes (maybe until the next cycle in a new world).
 
 ---
 
 ### Worm Math Problems and Solutions
 
-Every scenario in the book can contain different questions. Every question is then accompanied by some math problems and solutions. Each question is going to be asked and discussed in the [Discussions page](https://github.com/openworm/worm-math-book/discussions). Selected questions become [issues](https://github.com/openworm/worm-math-book/issues), and when the related math problem(s) are solved a [pull request](https://github.com/openworm/worm-math-book/pulls) for an update to the book takes place.
+Every scenario in the book can contain different questions. Every question then comes with some math problems and solutions. Each question is going to be asked and discussed in the [Discussions page](https://github.com/openworm/worm-math-book/discussions). Selected questions become [issues](https://github.com/openworm/worm-math-book/issues), and when the related math problem(s) are solved a [pull request](https://github.com/openworm/worm-math-book/pulls) for an update to the book takes place.
