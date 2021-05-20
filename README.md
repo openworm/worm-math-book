@@ -18,6 +18,8 @@ This book aims to focus on the most important mathematical concepts and models o
 
 ### Structure and Scenario
 
+“Je me sers d'animaux pour instruire les hommes” - *La Fontaine*
+
 The book is following a cycle of the C. **EL**egans' life. Each day some new capabilities are added and the worm becomes more complex. The questions regarding the new complexity, related math problems and solutions are discussed. Finally, an existing or a proposed model/simulation could be added in order to better demonstrate the process.
 
 **Part 1: Creation**
@@ -66,7 +68,7 @@ The book is following a cycle of the C. **EL**egans' life. Each day some new cap
 
 - *Day 25 - Resuscitation*: The OpenWorm rescue team finds that El is dead. Revives El and looks for possible reasons.
 - *Day 26 - Gene Therapy*: The OpenWorm rescue team finds the genetic problem caused the irrational decision and treats the disease
-- *Day 27 - Rehabilitation*: El now suffers from heart arrythmia and movement disability. The OpenWorm rescue team tries to rehabilitate El using drugs, artificial pacemaking, and rehabilitation techniques
+- *Day 27 - Rehabilitation*: El now suffers from the heart arrythmia and movement disability. The OpenWorm rescue team tries to rehabilitate El using drugs, artificial pacemaking, and rehabilitation techniques
 - *Day 28 - Aging and Death*: Behold; one shall not work on weekends. El suffers from different aging symptoms, goes to sleep. This time never awakes (maybe until the next cycle in a new world).
 
 ---
@@ -74,3 +76,7 @@ The book is following a cycle of the C. **EL**egans' life. Each day some new cap
 ### Worm Math Problems and Solutions
 
 Every scenario in the book can contain different questions. Every question then comes with some math problems and solutions. Each question is going to be asked and discussed in the [Discussions page](https://github.com/openworm/worm-math-book/discussions). Selected questions become [issues](https://github.com/openworm/worm-math-book/issues), and when the related math problem(s) are solved a [pull request](https://github.com/openworm/worm-math-book/pulls) for an update to the book takes place.
+
+##### Contribution
+
+Every two contributors choose a math concept, read 2 * ~12 pages of related references and write a 2 * ~180 words abstract in a day. Then try to issue and solve at least one related problem.
