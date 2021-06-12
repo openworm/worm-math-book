@@ -47,8 +47,8 @@ The book is following a cycle of the C. **EL**egans' life. Each day some new cap
 
 - *Day 13 - Feeding*: El senses a food source, goes toward the source and starts eating
 - *Day 14 - Defecation*: Behold; one shall not work on weekends. El tries to understand how to use the toilet instead.
-- *Day 15 - Mate*: El feels loneliness, moves around, finds a mate, and falls in love
-- *Day 16 - Reproduction*: El’s wife starts lying eggs
+- *Day 15 - Evolution*: El feels loneliness, moves around, finds a club full of different types of nematodes and makes friends
+- *Day 16 - Mating and Reproduction*: El finds a mate, and falls in love, El’s wife starts lying eggs
 
 **Part 5: In Danger**
 
